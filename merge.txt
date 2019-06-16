@@ -4,8 +4,11 @@
 
 3) third
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 4) fourth
 
+=======
+>>>>>>> 10044d9... fouurth commit
 =======
 >>>>>>> 10044d9... fouurth commit
